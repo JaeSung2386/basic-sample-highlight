@@ -1,2 +1,2 @@
 # basic-sample-highlight
-Created with CodeSandbox
+highlight 적용 예제
